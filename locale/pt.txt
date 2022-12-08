@@ -1,0 +1,63 @@
+#: locale=pt
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Natal em 360 Curvelo
+
+## Skin
+
+### Button
+Button_F4F018B4_EE37_F3B7_41D0_1854CE8FC99A.label = Casa do Papai Noel
+Button_F4F018B4_EE37_F3B7_41D0_1854CE8FC99A_mobile.label = Casa do Papai Noel
+Button_F535A007_EE35_B252_41D3_23BAE6996083.label = Praça Mauá
+Button_F535A007_EE35_B252_41D3_23BAE6996083_mobile.label = Praça Mauá
+Button_F54D1D1D_EE35_5276_41E1_4BDABF04989A.label = Praça Benedito
+Button_F54D1D1D_EE35_5276_41E1_4BDABF04989A_mobile.label = Praça Benedito
+Button_F7505E38_EE0C_CEBE_41E8_187CCEDE8482.label = Praça da Estação
+Button_F7505E38_EE0C_CEBE_41E8_187CCEDE8482_mobile.label = Praça da Estação
+
+### Multiline Text
+HTMLText_FC8224E7_E84B_F464_41E5_50931AE05650.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:17px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:17px;font-family:'Segoe UI';">''Porque um menino nos nasceu, um filho se nos deu. O governo está sobre os seus ombros, e o seu nome será: Maravilhoso, Conselheiro, Deus Forte, Pai da Eternidade, Príncipe da Paz.'' (Is. 9:6)</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:16px;font-family:'Segoe UI';">O Rei dos reis, o Salvador do mundo não se importou com a sua glória no Céu e veio a este mundo para nos salvar. Nasceu em uma manjedoura, foi humilhado, injustiçado, açoitado e, por fim, pregado em uma cruz por cada um de nós (Is. 53:4-5). Hoje, Ele está vivo e em breve voltará para nos buscar. Que jamais possamos esquecer deste grande amor, sendo gratos e nos entregando a Ele por completo.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:16px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:12px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:16px;font-family:'Segoe UI';"><B>FELIZ NATAL A TODOS! :)</B></SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:16px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:16px;font-family:'Segoe UI';"><B>Cognos - Produtora de Tour Virtual 360º</B></SPAN></SPAN></DIV></div>
+HTMLText_FC8224E7_E84B_F464_41E5_50931AE05650_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:12px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:12px;font-family:'Segoe UI';">''Porque um menino nos nasceu, um filho se nos deu. O governo está sobre os seus ombros, e o seu nome será: Maravilhoso, Conselheiro, Deus Forte, Pai da Eternidade, Príncipe da Paz.'' (Is. 9:6)</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:10px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:11px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:11px;font-family:'Segoe UI';">O Rei dos reis, o Salvador do mundo não se importou com a sua glória no Céu e veio a este mundo para nos salvar. Nasceu em uma manjedoura, foi humilhado, injustiçado, açoitado e, por fim, pregado em uma cruz por cada um de nós (Is. 53:4-5). Hoje, Ele está vivo e em breve voltará para nos buscar. Que jamais possamos esquecer deste grande amor, sendo gratos e nos entregando a Ele por completo.</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:8px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:11px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:11px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:11px;font-family:'Segoe UI';"><B>FELIZ NATAL A TODOS! :)</B></SPAN></SPAN></DIV><DIV STYLE="text-align:center;font-size:11px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:11px;font-family:'Segoe UI';"><B>Cognos - Produtora de Tour Virtual 360º</B></SPAN></SPAN></DIV></div>
+
+## Media
+
+### Title
+panorama_C0134DCF_CFF0_C037_41D9_A971CB7698E8.label = IMG_20221128_204253_00_872_PureShot1-denoise-clear
+panorama_C260949A_CFF0_C059_41E3_E7ADCE8DAECB.label = IMG_20221128_204526_00_887_PureShotOK-denoise-clear
+panorama_C26D37F8_CFF3_CFDA_41CF_7036E64F4EA0.label = IMG_20221128_220103_00_217_PureShotOK-denoise-clear
+panorama_C26D5DC5_CFF3_402B_41C6_A6F8F647961A.label = IMG_20221128_215909_00_197_PureShotOK-denoise-clear
+panorama_C26D743B_CFF3_405F_41D8_BE679658BDB9.label = IMG_20221128_214247_00_177_PureShotOK-denoise-clear
+panorama_C26D8669_CFF3_40FB_41CA_2ED428854948.label = IMG_20221128_214047_00_167_PureShotOK-denoise-clear
+panorama_C26D8AE7_CFF3_41F7_41CC_A7B7BA898A5D.label = IMG_20221128_220008_00_207_PureShotOK-denoise-clear
+panorama_C26DB0CB_CFF3_403F_41D3_3241AF41231A.label = IMG_20221128_215756_00_187_PureShotOK-denoise-clear
+panorama_C26E37AD_CFF1_C07B_41D4_1436ADFE652C.label = IMG_20221128_212734_00_066_PureShotOK-denoise-clear
+panorama_C26E578C_CFF1_C039_41C5_C40E76296D8F.label = IMG_20221128_212252_00_031_PureShotOK-denoise-clear
+panorama_C26E955B_CFF1_40DF_41D6_A5BF84E66C72.label = IMG_20221128_213252_00_107_PureShotOK-denoise-clear
+panorama_C26EBCD4_CFF0_C029_41D1_3847C4C23160.label = IMG_20221128_213737_00_147_PureShotOK-denoise-clear
+panorama_C26ECA0C_CFF0_C039_41C2_2CBE8E5DAFED.label = IMG_20221128_213839_00_157_PureShotOK-denoise-clear
+panorama_C26ECFCA_CFF0_C03E_41CC_5B5E586862B5.label = IMG_20221128_213635_00_137_PureShotOK-denoise-clear
+panorama_C26EF213_CFF0_C02E_41D0_EA5B5663A1B8.label = IMG_20221128_213523_00_127_PureShotOK-denoise-clear
+panorama_C26EF3D8_CFF0_C7D9_41E8_C0980CA780E6.label = IMG_20221128_213424_00_117_PureShotOK-denoise-clear
+panorama_C26F1391_CFF1_402B_41D9_A28F02AC75C8.label = IMG_20221128_213127_00_096_PureShotOK-denoise-clear
+panorama_C26F3542_CFF1_C029_41CA_B954A317428A.label = IMG_20221128_211117_00_016_PureShotOK-denoise-clear
+panorama_C26F61DC_CFF1_43D9_41B7_9EDC9FE887B6.label = IMG_20221128_210420_00_961_PureShotOK-denoise-clear
+panorama_C26F62E5_CFF1_41EB_41E9_06CC611B56A3.label = IMG_20221128_210029_00_960_PureShotOK-denoise-clear
+panorama_C26F66E4_CFF1_41E9_41B3_52C9E47D602E.label = IMG_20221128_213028_00_086_PureShotOK-denoise-clear
+panorama_C26F67FD_CFF1_4FDA_41D8_AF95CFDD3330.label = IMG_20221128_212913_00_076_PureShotOK-denoise-clear
+panorama_C26F8686_CFF1_4036_41DF_91BD8F380B02.label = IMG_20221128_211006_00_001_PureShotOK-denoise-clear
+panorama_C26FA8E7_CFF1_C1F7_41C5_AAAF52CEE774.label = IMG_20221128_212451_00_055_PureShotOK-denoise-clear
+panorama_C26FB395_CFF1_402A_41E7_70FF7D2C0CD8.label = IMG_20221128_210736_00_976_PureShotOK-denoise-clear
+panorama_CA5CEBFB_DA8B_4CAA_4192_15DE992C9281.label = Foto Presépio-denoise-clear
+panorama_D8CC333A_D544_F3E2_41DB_862C744D6E21.label = IMG_20221201_204204_00_227_PureShotOK-denoise-clear
+panorama_DE36C305_D544_33A6_41E2_D058B38F1951.label = IMG_20221201_213927_00_274_PureShotOK-denoise-clear
+panorama_DE36DE38_D544_35EE_41AE_9FB90046E66C.label = IMG_20221201_211352_00_233_PureShotOK-denoise-clear
+panorama_DE36E885_D544_7EA6_41EA_61CD9DF285E8.label = IMG_20221201_212553_00_264_PureShotOK-denoise-clear
+panorama_DE3700E3_D544_2E62_41DD_8D61B11858E4.label = IMG_20221201_214000_00_280_PureShotOK-denoise-clear
+panorama_DE373500_D544_179E_41CB_67C2072BD896.label = IMG_20221201_213036_00_271_PureShotOK-denoise-clear
+panorama_DE375B81_D544_129E_41E0_78B0F210C19B.label = IMG_20221201_211918_00_251_PureShotOK-denoise-clear
+video_CCB5FEFF_DF95_1A6C_41E0_F05B8FA6B436.label = Papai noel OFICIAL
+video_FE8F4E96_E8D7_F4A7_41CB_0B6222E4DA2C.label = Só arvore de natal
